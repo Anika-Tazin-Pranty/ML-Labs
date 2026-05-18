@@ -1,1 +1,1 @@
-CSE427 Lab assingments and project
+CSE427 Lab assingments 

@@ -1,1 +1,1 @@
-# ML-Labs
+CSE427 Lab assingments and project
